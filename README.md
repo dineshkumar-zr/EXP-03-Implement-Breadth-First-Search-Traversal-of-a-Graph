@@ -1,7 +1,7 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
-NAME : DINESH KUMAR RAJENDRAN
-REGISTER NUMBER: 212224250005
-Breadth First Search Traversal of a Graph
+# NAME : DINESH KUMAR RAJENDRAN
+# REGISTER NUMBER: 212224250005
+# Breadth First Search Traversal of a Graph
 
 
 AIM: 
